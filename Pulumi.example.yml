@@ -1,0 +1,9 @@
+config:
+  kubescape-operator:namespace: "kubescape"
+  kubescape-operator:clusterName: "homelab-example"
+  kubescape-operator:helmChartVersion: "1.29.1"
+  kubescape-operator:storageClass: "local-path"
+  kubescape-operator:persistenceSize: "5Gi"
+  # Optional: Add these for cloud integration
+  # kubescape-operator:accountId: "your-account-id"
+  # kubescape-operator:accessKey: "your-access-key"

@@ -1,0 +1,4 @@
+name: kubescape-operator
+runtime:
+  name: nodejs
+description: Kubescape security scanning operator for Kubernetes cluster monitoring and compliance

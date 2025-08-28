@@ -1,0 +1,6 @@
+config:
+  kubescape-operator:namespace: "kubescape"
+  kubescape-operator:clusterName: "homelab-prod"
+  kubescape-operator:storageClass: "truenas-hdd-mirror-iscsi"
+  kubescape-operator:persistenceSize: "10Gi"
+encryptionsalt: v1:gpEprVZUkDQ=:v1:WPkABt36zYxIeILj:kzKYhPzp/WnZ8VFy1cDwl3DYqmVwJQ==
